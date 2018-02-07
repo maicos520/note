@@ -14,3 +14,5 @@ jdk1.8
 
 语法：
 ```sh scripts.sh project_new control_prot shuntdown_port```
+
+![image](note/123.jpg)
